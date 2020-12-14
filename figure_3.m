@@ -15,7 +15,7 @@ for i=1:length(Sp)
     plotHandles = zeros(1,i);
     plotLabels = cell(1,i); 
 
-    [B, Ages, SurvW, C2a, MeanAge,B95, C95, YPRint, B50, C50, ratio, maxY, Params]=convoplots(fs,Sp{i},linS{i},Ac_Am_scenario);
+    [B, Ages, SurvW, C2a, MeanAge,B95, C95, YPRint, B50, C50, ratio, maxY, Params]=convoplots(fs,Sp{i},linS{i});
 
     subplot(4,1,1)
     axis tight manual % this ensures that getframe() returns a consistent size

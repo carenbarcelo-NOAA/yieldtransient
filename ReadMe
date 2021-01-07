@@ -1,6 +1,6 @@
 This is the code described in Barceló et al. Projecting the time scale of initial increase in fishery yield after implementation of marine protected areas, submitted to ICES Journal of Marine Science (2020). These codes build off of code presented in Kaplan et al. (2019), Setting expectations for the timeline of fished population recovery for the adaptive management of a marine protected area network. Ecological Applications. 
 
-Specific to Barceló et al. ICES JMS (accepted 2020): 
+Specific to Barceló et al. ICES JMS (in press 2020): 
 Main analysis:
 
 (Code is written in Matlab) 
@@ -11,7 +11,7 @@ figure_4.m
 (Code is written in R)
 figure_5_6.R
 
-Specific to Barceló et al. submitted to ICES JMS: 
+Specific to Barceló et al. ICES JMS (in press 2020): 
 Supplementary materials:
 
 (Code is written in Matlab)
